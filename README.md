@@ -91,6 +91,8 @@ I'm a **doctoral research candidate** at the **Center for Artificial Intelligenc
 > **AI-based Automated Detection and Classification of Osteoporosis in Females from Dental Panoramic Radiographs**
 > 
 > 📰 *Journal of Imaging Informatics in Medicine, Springer Nature* · 2025
+>
+> 🔗 DOI: [10.1007/s10278-025-01809-8](https://doi.org/10.1007/s10278-025-01809-8)
 > 
 > ![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square) ![Medical Imaging](https://img.shields.io/badge/Medical_Imaging-005F9E?style=flat-square) ![Osteoporosis](https://img.shields.io/badge/Osteoporosis_Detection-2ECC71?style=flat-square)
 
