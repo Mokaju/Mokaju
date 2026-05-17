@@ -190,7 +190,7 @@ I'm a **doctoral researcher** at the **Center for Artificial Intelligence in Med
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mokaju-chanambam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mokaju&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokaju-chanambam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mokaju-chanambam&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FB923C&currStreakLabel=38BDF8" width="500"/>
