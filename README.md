@@ -24,7 +24,7 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4eGhyeWZ4MHh4NXV2eGI1NW9nMTJ6YWo1OWd1YnVzZGhvMHd2eCZlcD12MV9pbnRlcm5hbGdfaWYmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
 
-I'm a **doctoral researcher** at the **Center for Artificial Intelligence in Medicine, Imaging & Forensics (CAIMIF)**, Sharda University. My work sits at the intersection of **deep learning** and **clinical medicine** — building AI systems that can see what radiologists see, and beyond.
+I'm a **doctoral research candidate** at the **Center for Artificial Intelligence in Medicine, Imaging & Forensics (CAIMIF)**, Sharda University. My work sits at the intersection of **deep learning** and **clinical medicine** — building AI systems that can see what radiologists see, and beyond.
 
 - 🔬 **Research Focus:** 3D Medical Image Analysis (CT, MRI, X-Ray)
 - 🦷 **Current Project:** AI-based Osteoporosis detection from dental panoramic radiographs
