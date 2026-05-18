@@ -5,12 +5,9 @@
 ---
 
 ## 🧠 About Me
-PhD candidate specializing in **medical image analysis using AI**, with expertise in deep learning for CT, MRI, and X-ray applications.
+I love building AI diagnostic tools that can help doctors for early screening of disease.
 
-- 🔬 Medical Imaging & Clinical AI
-- 🦷 Osteoporosis Detection Research
-- 🤖 CNNs, Vision Transformers, Segmentation
-- 🖥️ NVIDIA DGX H100 | HPC Training
+Sometimes, I love to ponder over origin of universe and us. I play guitar also.
 
 ---
 
