@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 About Me
-I love building AI diagnostic tools that can help doctors for early screening of disease.
+I build AI diagnostic tools that can help doctors for early screening of disease.
 
 Sometimes, I love to ponder over origin of universe and us. I love pets. And I play guitar too.
 
