@@ -1,31 +1,31 @@
 # Hi, I'm Chanambam Mokaju Meitei 👋
 
-### AI Researcher | Medical Imaging | Deep Learning
+### AI Researcher & Trainer| Center for Artificial Intelligence in Medicine, Imaging & Forensics
 
 ---
 
 ## 🧠 About Me
 I love building AI diagnostic tools that can help doctors for early screening of disease.
 
-Sometimes, I love to ponder over origin of universe and us. I play guitar also.
+Sometimes, I love to ponder over origin of universe and us. I love pets. And I play guitar too.
 
 ---
 
 ## 🛠️ Tech Stack
 **Languages & Tools:**  
-Python • MATLAB • Linux • Docker  
+Python • Linux • Kubernetes  
 
 **AI Frameworks:**  
-PyTorch • TensorFlow • OpenCV • Scikit-learn  
+PyTorch • TensorFlow 
 
 **Medical Imaging:**  
-3D Slicer • FSL • AFNI • BrainSuite  
+3D Slicer • FSL • AFNI • BrainSuite • FreeSurfer
 
 ---
 
 ## 🚀 Featured Projects
-- 🦴 Osteoporosis Detection from Dental Radiographs  
-- 🧠 3D Medical Image Segmentation  
+- 🦴 Osteoporosis Detection from Dental Panoramic Radiographs  
+- 🧠 3D Medical Image Segmentation and classification  
 - 💀 Skull-to-Face Reconstruction  
 - 📊 Clinical AI Research Pipelines  
 
