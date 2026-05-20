@@ -52,7 +52,7 @@ When I'm not training models, I enjoy pondering the origin of the universe, spen
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mokaju-chanambam)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mokajupri10@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=G_clY4kAAAAJ&hl=en)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mokaju-Chanambam?ev=hdr_xprf))
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mokaju-Chanambam?ev=hdr_xprf)
 
 ---
 
@@ -63,5 +63,6 @@ When I'm not training models, I enjoy pondering the origin of the universe, spen
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mokaju-chanambam&style=flat-square&color=1D9E75" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=
+    Mokaju&style=flat-square&color=1D9E75" alt="Profile views" />
 </p>
