@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated header using SVG -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56,1D9E75,5DCAA5&height=180&section=header&text=Chanambam%20Mokaju%20Meitei&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=AI%20Researcher%20%26%20Trainer&descSize=16&descAlignY=58&descColor=E1F5EE&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0F6E56,1D9E75,5DCAA5&amp;height=180&amp;section=header&amp;text=Chanambam%20Mokaju%20Meitei&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20Researcher%20%26%20Trainer&amp;descSize=16&amp;descAlignY=58&amp;descColor=E1F5EE&amp;animation=fadeIn" width="100%"/>
 
 </div>
 
