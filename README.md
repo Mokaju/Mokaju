@@ -49,7 +49,7 @@ status   : Open to collaboration
 
 <table>
 <tr>
-<td><b>Languages & Infrastructure</b></td>
+<td><b>Languages &amp; Infrastructure</b></td>
 <td>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
