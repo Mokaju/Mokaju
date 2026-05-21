@@ -2,8 +2,7 @@
 
 <div align="center">
 
-<!-- Animated header using SVG -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56,1D9E75,5DCAA5&height=180&section=header&text=Chanambam%20Mokaju%20Meitei&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=AI%20Researcher%20%26%20Trainer&descSize=16&descAlignY=58&descColor=E1F5EEE&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56,1D9E75,5DCAA5&height=180&section=header&text=Chanambam%20Mokaju%20Meitei&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=AI%20Researcher%20%26%20Trainer&descSize=16&descAlignY=58&descColor=E1F5EE&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -81,6 +80,18 @@ status   : Open to collaboration
 </td>
 </tr>
 </table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mokaju&show_icons=true&theme=default&hide_border=true&title_color=0F6E56&icon_color=1D9E75&text_color=444441&bg_color=ffffff" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mokaju&layout=compact&hide_border=true&title_color=0F6E56&text_color=444441&bg_color=ffffff" height="165"/>
+
+</div>
 
 ---
 
