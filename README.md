@@ -1,10 +1,7 @@
-<div align="center">
+# Chanambam Mokaju Meitei
+**AI Researcher &amp; Trainer**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56,1D9E75,5DCAA5&height=160&section=header&text=Chanambam%20Mokaju%20Meitei&fontSize=28&fontColor=ffffff&fontAlignY=40&desc=AI%20Researcher%20%26%20Trainer&descSize=14&descAlignY=60&descColor=E1F5EE&animation=fadeIn" width="100%"/>
-
-</div>
-
-<br>
+---
 
 AI Researcher and Trainer focused on **medical imaging** and **forensic science**, building diagnostic tools that support early disease detection.
 
@@ -34,10 +31,6 @@ AI Researcher and Trainer focused on **medical imaging** and **forensic science*
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=G_clY4kAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mokaju-Chanambam)
 
-<div align="center">
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56,1D9E75,5DCAA5&height=100&section=footer&animation=fadeIn" width="100%"/>
-
-<img src="https://komarev.com/ghpvc/?username=Mokaju&style=flat-square&color=1D9E75" alt="Profile views"/>
-
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=Mokaju&style=flat-square&color=1D9E75)
